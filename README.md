@@ -1,2 +1,2 @@
-# BaoZi.github
+# BaoZi
 BaoZi 's Blog
